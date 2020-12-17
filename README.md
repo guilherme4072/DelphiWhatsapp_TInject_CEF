@@ -1,4 +1,4 @@
-# Delphi Whatsapp com TInject e Chromium 78.3.9
+# Delphi Whatsapp com TInject e CEF(Chromium 78.3.9)
 
 [CEF4Delphi]
 https://github.com/salvadordf/CEF4Delphi
