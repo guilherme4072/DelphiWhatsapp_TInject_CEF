@@ -17,4 +17,4 @@ Editar o ConfTInject.ini colocando o caminho onde está seu exe e a pasta BIN
 
 a Pasta BIN deste repositório já está com os arquivos necessários para funcionar, no entanto pode ser baixado no próprio repositório dos autores citados acima.
 
-Exemplo desenvolvido no Delphi Rio 3
+Exemplo desenvolvido no Delphi Rio 3.
